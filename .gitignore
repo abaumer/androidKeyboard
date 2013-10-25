@@ -1,0 +1,6 @@
+# ignore this stuff
+java/bin*
+java/gen*
+java/local.properties
+java/proguard-project.txt
+java/project.properties

@@ -39,7 +39,7 @@
             android:keyIcon="@drawable/sym_keyboard_num3" />
         <Key
             android:keyLabel="-"
-            android:keyWidth="20%p"
+            android:keyWidth="0%p"
             android:isModifier="true"
             android:keyEdgeFlags="right" />
     </Row>
@@ -56,7 +56,7 @@
             android:keyIcon="@drawable/sym_keyboard_num6" />
         <Key
             android:keyLabel="."
-            android:keyWidth="20%p"
+            android:keyWidth="0%p"
             android:isModifier="true"
             android:keyEdgeFlags="right" />
     </Row>
@@ -75,7 +75,7 @@
             android:codes="@integer/key_delete"
             android:keyIcon="@drawable/sym_keyboard_delete"
             android:iconPreview="@drawable/sym_keyboard_feedback_delete"
-            android:keyWidth="20%p"
+            android:keyWidth="0%p"
             android:isModifier="true"
             android:isRepeatable="true"
             android:keyEdgeFlags="right" />
